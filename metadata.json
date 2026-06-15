@@ -1,0 +1,71 @@
+{
+  "siteId": "senior-diet-precautions",
+  "generatedAt": "2026-06-05T18:24:56.495355",
+  "categories": [
+    "beginner-senior-diet-precautions",
+    "advanced-senior-diet-precautions",
+    "tips-senior-diet-precautions",
+    "history-senior-diet-precautions",
+    "trending-senior-diet-precautions",
+    "tutorials-senior-diet-precautions"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-senior-diet-precautions",
+      "category_name": "Beginner Senior Diet Precautions"
+    },
+    {
+      "category_slug": "advanced-senior-diet-precautions",
+      "category_name": "Advanced Senior Diet Precautions"
+    },
+    {
+      "category_slug": "tips-senior-diet-precautions",
+      "category_name": "Senior Diet Precautions Tips"
+    },
+    {
+      "category_slug": "history-senior-diet-precautions",
+      "category_name": "Senior Diet Precautions History"
+    },
+    {
+      "category_slug": "trending-senior-diet-precautions",
+      "category_name": "Trending Senior Diet Precautions"
+    },
+    {
+      "category_slug": "tutorials-senior-diet-precautions",
+      "category_name": "Senior Diet Precautions Tutorials"
+    }
+  ],
+  "articleCount": 108,
+  "design": {
+    "site_id": "senior-diet-precautions",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "name": "Poppins",
+      "family": "'Poppins', sans-serif",
+      "import": "@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');"
+    },
+    "layout": "sidebar-right",
+    "border_radius": "16px",
+    "box_shadow": "0 20px 25px -5px rgba(0,0,0,0.1), 0 10px 10px -5px rgba(0,0,0,0.04)",
+    "article_card_style": "grid",
+    "header_style": "minimal",
+    "footer_style": "simple",
+    "modules": [
+      "featured-section",
+      "popular-tags",
+      "stats-widget",
+      "category-highlights",
+      "social-links"
+    ],
+    "site_title": "Senior Diet Precautions Central",
+    "articles_per_row": 1
+  }
+}
